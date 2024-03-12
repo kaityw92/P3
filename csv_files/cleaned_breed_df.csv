@@ -1,0 +1,196 @@
+,Breed,Breed Group AKC,average height,average weight,average lifespan
+0,Affenpinscher,Toy Group,10.5,10.0,13.5
+1,Afghan Hound,Hound Group,26.0,55.0,13.5
+2,Aidi,Not Recognized,22.25,52.5,12.5
+3,Airedale Terrier,Terrier Group,23.0,45.0,12.5
+4,Akbash Dog,Not Recognized,30.5,107.5,10.0
+5,Akita,Working Group,27.0,100.0,11.5
+6,Alaskan Husky,Not Recognized,24.5,47.5,12.5
+7,Alaskan Klee Kai,Foundation Stock Service,17.0,19.5,14.5
+8,Alaskan Malamute,Working Group,25.5,99.5,12.0
+9,American Bulldog,Foundation Stock Service,23.5,92.5,11.0
+10,American Bully,Not Recognized,18.0,77.5,11.0
+11,American Cocker Spaniel,Sporting Group,14.5,22.5,12.0
+12,American Eskimo Dog,Non-Sporting Group,14.0,27.5,14.0
+13,American Foxhound,Hound Group,23.5,67.5,12.0
+14,American Hairless Terrier,Terrier Group,14.0,14.0,15.0
+15,American Leopard Hound,Foundation Stock Service,24.0,57.5,13.5
+16,American Pit Bull Terrier,Not Recognized,19.5,52.5,11.0
+17,American Staffordshire Terrier,Terrier Group,18.0,55.0,14.0
+18,American Water Spaniel,Sporting Group,16.5,35.0,12.0
+19,Anatolian Shepherd Dog,Working Group,28.0,125.0,12.0
+20,Australian Cattle Dog,Herding Group,18.5,41.5,14.0
+21,Australian Kelpie,Foundation Stock Service,18.5,41.5,11.5
+22,Australian Shepherd,Herding Group,20.5,52.5,13.5
+23,Australian Terrier,Terrier Group,10.5,17.5,13.0
+24,Barbet,Sporting Group,21.75,50.0,13.0
+25,Basenji,Hound Group,16.5,22.5,13.5
+26,Basset Hound,Hound Group,13.5,51.5,12.5
+27,Beagle,Hound Group,15.0,26.5,12.5
+28,Bearded Collie,Herding Group,21.0,50.0,13.0
+29,Beauceron,Herding Group,26.0,87.5,11.0
+30,Bedlington Terrier,Terrier Group,16.5,20.0,13.5
+31,Belgian Sheepdog-Malinois,Herding Group,24.0,60.0,15.0
+32,Belgian Sheepdog-Tervuren,Herding Group,24.0,60.0,13.0
+33,Bernese Mountain Dog,Working Group,25.25,92.5,8.5
+34,Bichon Frise,Non-Sporting Group,10.5,12.5,14.5
+35,Black & Tan Coonhound,Hound Group,24.0,75.0,11.0
+36,Black Mouth Cur,Not Recognized,21.0,67.5,14.0
+37,Black Russian Terrier,Working Group,28.0,111.5,11.0
+38,Bloodhound,Hound Group,25.0,99.0,11.0
+39,Bluetick Coonhound,Hound Group,24.0,62.5,11.5
+40,Border Collie,Herding Group,20.0,41.0,13.5
+41,Border Terrier,Terrier Group,13.5,13.5,13.5
+42,Borzoi,Hound Group,30.0,80.0,11.5
+43,Boston Terrier,Non-Sporting Group,15.5,18.5,12.0
+44,Bouvier Des Flandres,Herding Group,25.5,84.5,11.0
+45,Boykin Spaniel,Sporting Group,16.0,32.5,12.5
+46,Boxer,Working Group,23.0,67.5,11.0
+47,Briard,Herding Group,24.5,77.5,12.0
+48,Brittany,Sporting Group,19.0,37.5,13.0
+49,Brussels Griffon,Toy Group,8.5,10.0,13.5
+50,Bull Terrier,Terrier Group,22.0,52.5,12.5
+51,Bulldog,Non-Sporting Group,14.5,49.0,9.0
+52,Bullmastiff,Working Group,25.5,110.0,8.0
+53,Cairn Terrier,Terrier Group,10.5,15.0,14.0
+54,Canaan Dog,Herding Group,21.5,45.0,13.5
+55,Cane Corso,Working Group,25.5,95.0,10.5
+56,Cardigan Welsh Corgi,Herding Group,11.5,31.5,13.5
+57,Carolina Dog,Foundation Stock Service,20.5,37.5,13.5
+58,Catahoula Leopard Dog,Foundation Stock Service,23.0,72.5,12.0
+59,Cavalier King Charles Spaniel,Toy Group,12.5,15.5,13.5
+60,Chesapeake Bay Retriever,Sporting Group,23.5,67.5,11.5
+61,Chihuahua,Toy Group,7.5,4.0,15.0
+62,Chinese Crested,Toy Group,11.0,9.0,15.5
+63,Chinese Shar-Pei,Non-Sporting Group,18.5,50.0,10.0
+64,Chow Chow,Non-Sporting Group,20.0,57.5,10.0
+65,Clumber Spaniel,Sporting Group,18.5,70.0,11.0
+66,Collie,Herding Group,23.0,60.0,13.0
+67,Coton de Tulear,Non-Sporting Group,10.0,11.5,17.0
+68,Curly Coated Retriever,Sporting Group,25.0,77.5,11.0
+69,"Dachshund, Miniature",Hound Group,9.5,6.0,14.0
+70,"Dachshund, Standard",Hound Group,13.0,22.0,14.0
+71,Dalmatian,Non-Sporting Group,21.5,58.0,12.0
+72,Dandie Dinmont Terrier,Terrier Group,9.5,21.0,13.5
+73,Danish-Swedish Farmdog,Foundation Stock Service,13.5,17.5,12.0
+74,Doberman Pinscher,Working Group,26.5,80.0,11.0
+75,Dogo Argentino,Working Group,25.0,90.0,12.0
+76,Dutch Shepherd,Miscellaneous Class,23.75,58.5,12.5
+77,English Bulldog,Not Recognized,14.5,49.0,9.0
+78,English Cocker Spaniel,Sporting Group,16.5,29.5,13.0
+79,English Coonhound,Hound Group,23.5,57.5,11.5
+80,English Foxhound,Hound Group,24.5,55.0,11.5
+81,English Setter,Sporting Group,24.5,62.5,12.0
+82,English Shepherd,Not Recognized,21.0,52.5,0.0
+83,English Springer Spaniel,Sporting Group,19.5,42.5,13.0
+84,English Toy Spaniel,Toy Group,10.0,11.0,11.0
+85,Field Spaniel,Sporting Group,17.0,42.5,12.5
+86,Finnish Spitz,Non-Sporting Group,17.5,25.0,14.0
+87,Flat Coated Retriever,Sporting Group,23.5,70.0,9.0
+88,French Bulldog,Non-Sporting Group,12.0,22.0,11.0
+89,German Longhaired Pointer,Foundation Stock Service,25.0,67.5,13.0
+90,German Pinscher,Working Group,18.5,35.0,13.0
+91,German Shepherd Dog,Herding Group,23.5,69.0,13.0
+92,German Shorthaired Pointer,Sporting Group,23.5,57.5,11.0
+93,German Wirehaired Pointer,Sporting Group,22.5,60.0,15.0
+94,Giant Schnauzer,Working Group,25.5,79.5,13.5
+95,Glen of Imaal Terrier,Terrier Group,13.25,36.0,12.5
+96,Golden Retriever,Sporting Group,22.0,65.0,11.0
+97,Gordon Setter,Sporting Group,25.0,62.5,12.5
+98,Great Dane,Working Group,31.0,149.5,8.5
+99,Great Pyrenees,Working Group,28.5,100.0,12.5
+100,Greater Swiss Mountain Dog,Working Group,26.0,112.5,9.5
+101,Greyhound,Hound Group,28.5,65.0,11.5
+102,Harrier,Hound Group,20.0,52.5,13.5
+103,Havanese,Toy Group,10.0,10.5,15.0
+104,Ibizan Hound,Hound Group,25.5,47.5,12.5
+105,Irish Setter,Sporting Group,24.0,62.5,13.5
+106,Irish Terrier,Terrier Group,18.5,26.0,14.0
+107,Irish Water Spaniel,Sporting Group,22.5,56.5,12.5
+108,Irish Wolfhound,Hound Group,30.0,107.0,7.0
+109,Italian Greyhound,Toy Group,13.5,10.5,14.5
+110,Jack Russell Terrier,Terrier Group,11.0,13.5,13.0
+111,Japanese Chin,Toy Group,10.0,9.5,11.0
+112,Kangal,Not Recognized,30.0,120.0,13.5
+113,Keeshond,Non-Sporting Group,18.5,50.5,13.5
+114,Kerry Blue Terrier,Terrier Group,18.5,39.0,13.5
+115,Komondor,Working Group,26.5,107.5,11.0
+116,Kuvasz,Working Group,28.0,92.5,11.0
+117,Labrador Retriever,Sporting Group,23.0,67.5,11.0
+118,Lakeland Terrier,Terrier Group,14.0,16.5,13.5
+119,Lhasa Apso,Non-Sporting Group,10.5,15.0,13.5
+120,Maltese,Toy Group,8.5,6.5,13.5
+121,Manchester Terrier (Standard),Terrier Group,15.5,17.0,16.0
+122,Manchester Terrier (Toy),Toy Group,11.0,9.0,16.0
+123,Mastiff,Working Group,28.0,175.0,8.0
+124,Miniature Bull Terrier,Terrier Group,12.0,23.0,12.0
+125,Miniature Pinscher,Toy Group,11.5,10.5,14.0
+126,Neapolitan Mastiff,Working Group,27.0,132.0,8.0
+127,Nederlandse Kooikerhondje,Sporting Group,15.5,25.0,13.5
+128,Newfoundland,Working Group,27.0,126.0,9.5
+129,Norfolk Terrier,Terrier Group,9.5,11.0,14.0
+130,Norrbottenspets,Miscellaneous Class,17.4,25.0,15.5
+131,Norwegian Elkhound,Hound Group,20.0,51.5,13.5
+132,Nova Scotia Duck Tolling Retriever,Sporting Group,19.0,43.0,13.0
+133,Old English Sheepdog,Herding Group,22.5,80.0,11.0
+134,Olde English Bulldogge,Not Recognized,17.5,65.0,12.5
+135,Otterhound,Hound Group,25.5,102.5,11.5
+136,Papillon,Toy Group,9.5,8.0,15.0
+137,Parson Russell Terrier,Terrier Group,13.5,15.0,14.0
+138,Patterdale Terrier,Not Recognized,12.5,13.5,12.0
+139,Pekingese,Toy Group,9.0,10.0,13.0
+140,Pembroke Welsh Corgi,Herding Group,11.0,25.0,12.5
+141,Perro de Presa Canario,Foundation Stock Service,24.0,113.5,10.0
+142,Peruvian Inca Orchid,Miscellaneous Class,17.75,31.75,13.0
+143,Petit Basset Griffon Vendeen,Hound Group,14.0,37.5,13.0
+144,Pharaoh Hound,Hound Group,23.0,50.0,13.0
+145,Plott Hound,Hound Group,23.5,57.5,13.0
+146,Pointer,Sporting Group,25.5,59.5,14.5
+147,Polish Lowland Sheepdog,Herding Group,18.5,40.0,13.0
+148,Pomeranian,Toy Group,9.5,5.0,14.0
+149,Poodle Toy,Toy Group,10.0,6.0,14.0
+150,"Poodle, Miniature",Non-Sporting Group,12.5,24.5,14.0
+151,"Poodle, Standard",Non-Sporting Group,20.0,55.0,14.0
+152,Portuguese Water Dog,Working Group,20.0,47.5,12.0
+153,Pug,Toy Group,12.0,16.0,14.0
+154,Puli,Herding Group,16.0,28.5,12.5
+155,Pumi,Herding Group,16.75,25.0,12.5
+156,Rat Terrier,Terrier Group,14.0,22.5,15.0
+157,Redbone Coonhound,Hound Group,24.0,57.5,13.5
+158,Rhodesian Ridgeback,Hound Group,25.5,75.0,12.0
+159,Rottweiler,Working Group,24.5,112.5,9.5
+160,Saint Bernard,Working Group,30.5,160.0,9.0
+161,Saluki,Hound Group,25.5,52.5,13.5
+162,Samoyed,Working Group,21.5,50.0,13.0
+163,Schapendoes,Foundation Stock Service,18.0,40.5,13.5
+164,Schipperke,Non-Sporting Group,11.5,14.5,13.0
+165,"Schnauzer, Standard",Working Group,19.5,39.0,14.5
+166,Scottish Deerhound,Hound Group,29.5,92.5,9.5
+167,Scottish Terrier,Terrier Group,10.5,20.5,13.0
+168,Sealyham Terrier,Terrier Group,11.0,21.5,13.0
+169,Shetland Sheepdog,Herding Group,14.5,17.0,13.0
+170,Shiba Inu,Non-Sporting Group,15.0,20.0,14.5
+171,Shih Tzu,Toy Group,9.5,13.5,14.0
+172,Siberian Husky,Working Group,21.5,47.5,13.0
+173,Silky Terrier,Toy Group,9.5,9.0,14.0
+174,Skye Terrier,Terrier Group,8.5,29.0,13.0
+175,Smooth Fox Terrier,Terrier Group,15.5,16.5,13.5
+176,Spinone Italiano,Sporting Group,25.0,74.0,11.0
+177,Staffordshire Bull Terrier,Terrier Group,15.0,31.0,13.0
+178,Sussex Spaniel,Sporting Group,14.5,43.0,14.0
+179,Tibetan Mastiff,Working Group,27.0,115.0,11.0
+180,Tibetan Spaniel,Non-Sporting Group,10.0,12.0,13.5
+181,Tibetan Terrier,Non-Sporting Group,15.5,24.0,15.5
+182,Toy Fox Terrier,Toy Group,10.0,5.75,14.0
+183,Treeing Tennessee Brindle,Foundation Stock Service,20.0,40.0,11.0
+184,Treeing Walker Coonhound,Hound Group,23.5,60.0,12.5
+185,Vizsla,Sporting Group,23.0,55.0,13.0
+186,Weimaraner,Sporting Group,25.0,72.5,11.5
+187,Welsh Springer Spaniel,Sporting Group,18.0,45.0,13.5
+188,Welsh Terrier,Terrier Group,15.0,20.5,13.5
+189,West Highland White Terrier,Terrier Group,11.0,18.5,14.0
+190,"Wheaten Terrier, Soft-Coated",Terrier Group,18.5,35.0,13.0
+191,Whippet,Hound Group,19.5,32.5,13.5
+192,Wire Fox Terrier,Terrier Group,15.5,16.5,13.5
+193,Wirehaired Pointing Griffon,Sporting Group,22.0,52.5,13.5
+194,Yorkshire Terrier,Toy Group,7.0,5.5,13.0
